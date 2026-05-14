@@ -1,9 +1,7 @@
 streamlit
 google-generativeai
-weasyprint
 pandas
 openpyxl
 python-docx
 pymupdf
 beautifulsoup4
-pywin32
