@@ -5,4 +5,3 @@ openpyxl
 python-docx
 pymupdf
 beautifulsoup4
-pywin32
