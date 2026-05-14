@@ -24,7 +24,7 @@ st.sidebar.markdown("---")
 st.sidebar.subheader("🛠️ 工具列表")
 
 # 手動建立導覽按鈕
-st.sidebar.page_link("app.py", label="🏠 主控台首頁")
+st.sidebar.page_link("🏠_工作站總覽", label="🏠 主控台首頁")
 st.sidebar.page_link("pages/1_Word圖片提取.py", label="📝 Word 圖片提取")
 st.sidebar.page_link("pages/2_PDF圖片提取.py", label="📄 PDF 圖片提取")
 st.sidebar.page_link("pages/3_PDF與圖檔合併器.py", label="📑 PDF 與圖檔合併器")
